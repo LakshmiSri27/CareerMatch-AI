@@ -1,0 +1,22 @@
+
+Role,Category,Skills,Description,Experience Level
+Data Analyst,Analytics,"Python; SQL; Excel; Power BI; Statistics; Pandas","Analyze datasets and build business dashboards.",Entry Level
+Business Analyst,Analytics,"SQL; Excel; Power BI; Communication; Reporting","Translate business requirements into useful insights.",Entry Level
+BI Developer,Analytics,"Power BI; DAX; SQL; Data Modeling; Excel","Create interactive business intelligence dashboards.",Entry Level
+Product Analyst,Analytics,"SQL; Python; Statistics; A/B Testing; Visualization","Analyze product usage and customer behavior.",Entry Level
+Marketing Analyst,Analytics,"Excel; SQL; Python; Statistics; Google Analytics","Measure marketing campaign performance.",Entry Level
+Data Scientist,Data Science,"Python; Pandas; NumPy; Statistics; Machine Learning; SQL","Build predictive models and analyze complex data.",Entry Level
+Machine Learning Engineer,AI and ML,"Python; Scikit-learn; TensorFlow; PyTorch; APIs","Develop and deploy machine learning models.",Entry Level
+AI Engineer,AI and ML,"Python; Deep Learning; PyTorch; NLP; APIs","Build AI-powered applications.",Entry Level
+NLP Engineer,AI and ML,"Python; NLP; Transformers; BERT; Deep Learning","Develop applications that process human language.",Entry Level
+Computer Vision Engineer,AI and ML,"Python; OpenCV; CNN; PyTorch; Image Processing","Build image and video analysis systems.",Entry Level
+Generative AI Developer,AI and ML,"Python; LLMs; Transformers; RAG; APIs; NLP","Develop applications using generative AI models.",Entry Level
+Python Developer,Software Development,"Python; OOP; Git; SQL; APIs; Flask; Django","Develop Python applications and backend services.",Entry Level
+Backend Developer,Software Development,"Python; APIs; SQL; PostgreSQL; Django; Docker","Build backend services and APIs.",Entry Level
+Full Stack Developer,Software Development,"HTML; CSS; JavaScript; React; Python; SQL; APIs","Develop frontend and backend web applications.",Entry Level
+QA Automation Engineer,Software Development,"Python; Selenium; Testing; Automation; Git","Create automated software tests.",Entry Level
+Data Engineer,Data Engineering,"Python; SQL; ETL; Spark; Airflow; Data Pipelines","Build and maintain data pipelines.",Entry Level
+Analytics Engineer,Data Engineering,"SQL; Python; dbt; Data Modeling; Data Warehousing","Transform data into analytics-ready models.",Entry Level
+Cloud Engineer,Cloud and DevOps,"AWS; Azure; Linux; Docker; Networking; Python","Deploy and maintain cloud infrastructure.",Entry Level
+DevOps Engineer,Cloud and DevOps,"Linux; Docker; Kubernetes; Git; CI/CD; Python","Automate software deployment and infrastructure.",Entry Level
+Fraud Detection Analyst,Finance Analytics,"Python; SQL; Machine Learning; Statistics; Anomaly Detection","Identify suspicious financial transactions.",Entry Level
